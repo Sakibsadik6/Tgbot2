@@ -1,9 +1,9 @@
 {
-  "botToken": "",
+  "botToken": "8015829074:AAEV13cKyer8CFoJSJ6XJKkIhXjoYjAg1uA",
   "botPrefix": "/",
   "DATABASE": {
     "sqlite": {
-      "CONNECT_SQLITE": false
+      "CONNECT_SQLITE": true
     },
     "mongodb": {
       "CONNECT_MONGODB": false,
@@ -14,9 +14,9 @@
     }
   },
   "ADMIN_IDS": [
-    1472439428
+    6658590630
   ],
-  "OWNER_ID": 1472439428,
+  "OWNER_ID": 6658590630,
   "skip": {
     "events": ["no"],
     "commands": ["no"]
